@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/textEditor/static/css/main.1768edf2.chunk.css",
-    "main.js": "/textEditor/static/js/main.755a114b.chunk.js",
-    "main.js.map": "/textEditor/static/js/main.755a114b.chunk.js.map",
+    "main.js": "/textEditor/static/js/main.a8ff6ce8.chunk.js",
+    "main.js.map": "/textEditor/static/js/main.a8ff6ce8.chunk.js.map",
     "runtime-main.js": "/textEditor/static/js/runtime-main.95ca516b.js",
     "runtime-main.js.map": "/textEditor/static/js/runtime-main.95ca516b.js.map",
     "static/js/2.c8f9089c.chunk.js": "/textEditor/static/js/2.c8f9089c.chunk.js",
     "static/js/2.c8f9089c.chunk.js.map": "/textEditor/static/js/2.c8f9089c.chunk.js.map",
     "index.html": "/textEditor/index.html",
-    "precache-manifest.020c17327b395c6f51a57fc964a49aed.js": "/textEditor/precache-manifest.020c17327b395c6f51a57fc964a49aed.js",
+    "precache-manifest.f9981eeec40f87334018ac805f917327.js": "/textEditor/precache-manifest.f9981eeec40f87334018ac805f917327.js",
     "service-worker.js": "/textEditor/service-worker.js",
     "static/css/main.1768edf2.chunk.css.map": "/textEditor/static/css/main.1768edf2.chunk.css.map",
     "static/js/2.c8f9089c.chunk.js.LICENSE.txt": "/textEditor/static/js/2.c8f9089c.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.95ca516b.js",
     "static/js/2.c8f9089c.chunk.js",
     "static/css/main.1768edf2.chunk.css",
-    "static/js/main.755a114b.chunk.js"
+    "static/js/main.a8ff6ce8.chunk.js"
   ]
 }
